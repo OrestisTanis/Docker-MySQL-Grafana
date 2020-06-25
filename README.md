@@ -1,6 +1,6 @@
 # Docker-MySQL-Grafana
 
-Commands to run separate images for MySQL and Grafana with persistent data are provided below.
+Commands to run separate images for MySQL and Grafana with persistent data are provided below. 
 
 
 __WARNING:__ the -v flag will create the directories if they don't exist on the host machine.
